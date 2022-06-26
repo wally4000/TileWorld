@@ -1,0 +1,1 @@
+add_library(oshw OBJECT sdlerr.c sdlin.c sdloshw.c sdlout.c sdlsfx.c sdltext.c sdltile.c sdltimer.c)
